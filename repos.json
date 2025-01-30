@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "MikasaNethunter",
-      "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
-      "branch": "Light",
-      "device": "mikasa"
+      "name": "LineageOS",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm845.git",
+      "branch": "lineage-22.1",
+      "device": "perseus"
     },
     "withKernelSU": false,
     "toolchains": [
